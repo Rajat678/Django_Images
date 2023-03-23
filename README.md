@@ -1,1 +1,1 @@
-# Django_Images-
+# Django_Images
